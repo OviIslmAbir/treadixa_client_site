@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "category": "Gadgets",
+    "price": 399.99,
+    "discount_price": 279.99,
+    "is_discounted": true,
+    "discount_percentage": "30%",
+    "rating": 4.8,
+    "total_sell": 1250,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop",
+    "specifications": {
+      "battery": "30 Hours",
+      "noise_canceling": "Industry Leading",
+      "connectivity": "Bluetooth 5.2",
+      "weight": "250g"
+    },
+    "description": "Industry-leading noise cancellation with 30-hour battery life and exceptional sound quality."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "Wearables",
+    "price": 299.99,
+    "discount_price": 194.99,
+    "is_discounted": true,
+    "discount_percentage": "35%",
+    "rating": 4.6,
+    "total_sell": 840,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1000&auto=format&fit=crop",
+    "specifications": {
+      "display": "AMOLED 1.5 inch",
+      "battery": "40 Hours",
+      "os": "Wear OS 4",
+      "sensors": "BioActive Sensor"
+    },
+    "description": "Advanced health monitoring, sleep tracking, and a vibrant AMOLED display for daily use."
+  },
+  {
+    "id": 3,
+    "name": "Apple MacBook Air M2",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 1099.00,
+    "discount_price": 769.30,
+    "is_discounted": true,
+    "discount_percentage": "30%",
+    "rating": 4.9,
+    "total_sell": 2100,
+    "image": "https://images.unsplash.com/photo-1517336714460-d45ad59599a7?q=80&w=1000&auto=format&fit=crop",
+    "specifications": {
+      "chip": "Apple M2",
+      "ram": "8GB Unified Memory",
+      "storage": "256GB SSD",
+      "screen": "13.6-inch Liquid Retina"
+    },
+    "description": "Supercharged by the M2 chip, incredibly thin design, and up to 18 hours of battery life."
+  },
+  {
+    "id": 4,
+    "name": "Logitech MX Master 3S Mouse",
+    "brand": "Logitech",
+    "category": "Accessories",
+    "price": 99.00,
+    "discount_price": 59.40,
+    "is_discounted": true,
+    "discount_percentage": "40%",
+    "rating": 4.7,
+    "total_sell": 3500,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=1000&auto=format&fit=crop",
+    "specifications": {
+      "dpi": "8000 DPI",
+      "buttons": "7 Buttons",
+      "battery": "Rechargeable (70 days)",
+      "connectivity": "Logi Bolt / Bluetooth"
+    },
+    "description": "Ergonomic wireless mouse with ultra-fast scrolling and quiet clicks for maximum productivity."
+  },
+  {
+    "id": 5,
+    "name": "GoPro HERO12 Black",
+    "brand": "GoPro",
+    "category": "Cameras",
+    "price": 349.99,
+    "discount_price": 227.49,
+    "is_discounted": true,
+    "discount_percentage": "35%",
+    "rating": 4.5,
+    "total_sell": 620,
+    "image": "https://images.unsplash.com/photo-1526170315870-ef6897349519?q=80&w=1000&auto=format&fit=crop",
+    "specifications": {
+      "video_res": "5.3K 60FPS",
+      "waterproof": "Up to 33ft",
+      "stabilization": "HyperSmooth 6.0",
+      "photo_res": "27MP"
+    },
+    "description": "Waterproof action camera with 5.3K video, HDR, and HyperSmooth 6.0 stabilization."
+  },
+  {
+    "id": 6,
+    "name": "Razer BlackWidow V4 Pro",
+    "brand": "Razer",
+    "category": "Gaming",
+    "price": 229.99,
+    "discount_price": 137.99,
+    "is_discounted": true,
+    "discount_percentage": "40%",
+    "rating": 4.6,
+    "total_sell": 480,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?q=80&w=1000&auto=format&fit=crop",
+    "specifications": {
+      "switches": "Mechanical Yellow/Green",
+      "lighting": "Razer Chroma RGB",
+      "keycaps": "Double-shot PBT",
+      "polling_rate": "8000Hz"
+    },
+    "description": "Mechanical gaming keyboard with immersive RGB lighting and dedicated macro keys."
+  }
+]

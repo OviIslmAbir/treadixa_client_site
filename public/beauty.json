@@ -1,0 +1,24 @@
+[
+    {
+  "id": "skincare-101",
+  "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+  "brand": "The Ordinary",
+  "price": 1250,
+  "discount_price": 1050,
+  "discount_percentage": "16% OFF",
+  "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=1000&auto=format&fit=crop",
+  "total_sell": 2500,
+  "rating": 4.8,
+  "description": "A high-strength vitamin and mineral blemish formula that visibly targets skin congestion and uneven tone. Niacinamide (Vitamin B3) reduces the appearance of skin blemishes and signs of congestion, while Zinc PCA balances visible aspects of sebum activity, making it perfect for oily and acne-prone skin.",
+  "specifications": {
+    "product_type": "Water-based Serum",
+    "key_ingredients": "Niacinamide 10%, Zinc PCA 1%",
+    "skin_type": "Suitable for all skin types (Ideal for Oily skin)",
+    "benefits": "Reduces blemishes, balances sebum, and minimizes pores",
+    "volume": "30ml / 60ml",
+    "ph_level": "5.50 - 6.50",
+    "cruelty_free": "Yes, Vegan and Alcohol-free",
+    "usage": "Apply to entire face morning and evening before heavier creams"
+  }
+}
+]

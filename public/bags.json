@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "name": "Elegance Premium Leather Crossbody Handbag",
+  "brand": "Lavish Luxe",
+  "price": 3200,
+  "discount_price": 2450,
+  "discount_percentage": "23%",
+  "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=1000&auto=format&fit=crop",
+  "total_sell": 850,
+  "rating": 4.9,
+  "description": "Exude sophistication with this premium leather handbag, designed for the modern woman. Featuring a sleek finish and durable hardware, it's the perfect accessory to transition from office meetings to evening parties. Its spacious interior ensures all your essentials are organized in style.",
+  "specifications": {
+    "material": "High-Quality PU Leather with Silk Lining",
+    "strap": "Adjustable and Detachable Gold-tone Chain Strap",
+    "closure_type": "Magnetic Snap with Smooth Interior Zipper",
+    "size": "10.5\" L x 4.5\" W x 7.5\" H (Medium Size)",
+    "pockets": "1 Main Compartment, 1 Inner Zipper Pocket, and 2 Accessory Slots",
+    "hardware": "Premium Rust-proof Golden Metal Buckles",
+    "durability": "Scratch-resistant and Easy to Clean Surface",
+    "occasion": "Ideal for Weddings, Parties, and Professional Daily use"
+  }
+}]
